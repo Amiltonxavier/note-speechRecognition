@@ -8,7 +8,7 @@ O Notas de Voz Web App é uma aplicação web inovadora que permite aos usuário
 
 [![Demonstração](/public/home.gif)](/public//openDialog.gif)
 
-Confira uma demonstração ao vivo [aqui](link-da-aplicacao).
+Confira uma demonstração ao vivo [aqui](https://note-speech-recognition.vercel.app/).
 
 ## Funcionalidades
 
@@ -31,7 +31,7 @@ Certifique-se de ter o Node.js instalado em seu sistema.
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd nome-do-repositorio
+    cd note-speechRecognition
     ```
 
 3. Instale as dependências:

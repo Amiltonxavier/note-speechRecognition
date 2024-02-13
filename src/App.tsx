@@ -70,7 +70,7 @@ export function App() {
         <NewNoteCard onNoteCreted={onNoteCreated} />
 
         {filterNotes.map((note) => {
-          return <NotesCard key={note.id} note={note} onNoteDelete={onNoteDelete} />;
+          return <NotesCard key={note.id} note={note} onNoteDelete={onNoteDelete} /> ;
         })}
       </div>
     </div>
